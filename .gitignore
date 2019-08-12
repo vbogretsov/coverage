@@ -1,0 +1,9 @@
+*
+!credentials
+!LICENSE
+!README.md
+!*.tf
+!policy.json
+!.dockerignore
+!.gitignore
+!Dockerfile
